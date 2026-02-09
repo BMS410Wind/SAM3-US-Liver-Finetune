@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://github.com/BMS410Wind/SAM3-US-Liver-Finetune/blob/main/liverpred.png" width="30%" />
+  <br />
+  <hr />
+</div>
+
 # SAM3-US-Liver-Finetune
 
 A fine-tuning implementation of Meta's Segment Anything Model 3 (SAM3) for ultrasound liver image segmentation.
