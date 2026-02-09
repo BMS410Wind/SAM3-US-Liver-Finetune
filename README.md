@@ -37,12 +37,11 @@ pip install -e .
 
 ```
 SAM3-US-Liver-Finetune/
-├── sam3.egg-info/          # Package metadata
 ├── sam3/                   # Main package directory
 ├── finetuneV4.py          # Fine-tuning script
-├── infer_sam_liverfinetuneV4.py  # Web-based inference
+├── infer_sam_liverfinetuneV4.py  # inference
 ├── labeltool.py           # Labeling tool
-├── liverpred.png          # Sample prediction
+├── liverpred.png          # prediction result
 └── LICENSE                # License file
 ```
 
