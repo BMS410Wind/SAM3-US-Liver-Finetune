@@ -12,6 +12,11 @@ A fine-tuning implementation of Meta's Segment Anything Model 3 (SAM3) for ultra
 
 This project adapts the SAM3 model for medical imaging applications, specifically targeting liver segmentation in ultrasound images. The implementation includes custom model builders and utilities for working with SAM3 in a medical imaging context.
 
+**Dataset Scale:**
+* **96** USImages
+* label by me, use labeltool.py
+* weight: https://drive.google.com/file/d/1n-eCbZGdWeSyb8WTUkyUsKoXVrypDQND/view?usp=sharing
+
 ## 🚀 Features
 
 - **SAM3 Integration**: Built on Meta's SAM3 architecture
